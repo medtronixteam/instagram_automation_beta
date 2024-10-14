@@ -1,0 +1,1089 @@
+2024-06-07 10:54:17 AM | ERROR | An Error occured while logging in.
+2024-06-07 11:14:36 AM | ERROR | Exception in start_session: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-07 11:30:40 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:41 AM | DEBUG | Exception in track_message_recive: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61F1F78A2+54818]
+	(No symbol) [0x00007FF61F166AD2]
+	(No symbol) [0x00007FF61F01DA3B]
+	(No symbol) [0x00007FF61F02246D]
+	(No symbol) [0x00007FF61F023F5F]
+	(No symbol) [0x00007FF61F024050]
+	(No symbol) [0x00007FF61F05E184]
+	(No symbol) [0x00007FF61F05E67C]
+	(No symbol) [0x00007FF61F05544C]
+	(No symbol) [0x00007FF61F07EAEF]
+	(No symbol) [0x00007FF61F055036]
+	(No symbol) [0x00007FF61F07ECC0]
+	(No symbol) [0x00007FF61F0975A2]
+	(No symbol) [0x00007FF61F07E883]
+	(No symbol) [0x00007FF61F053691]
+	(No symbol) [0x00007FF61F0548D4]
+	GetHandleVerifier [0x00007FF61F55B9A2+3610402]
+	GetHandleVerifier [0x00007FF61F5B1870+3962352]
+	GetHandleVerifier [0x00007FF61F5A9D5F+3930847]
+	GetHandleVerifier [0x00007FF61F293656+693206]
+	(No symbol) [0x00007FF61F171638]
+	(No symbol) [0x00007FF61F16D944]
+	(No symbol) [0x00007FF61F16DA72]
+	(No symbol) [0x00007FF61F15E123]
+	BaseThreadInitThunk [0x00007FF9095E7344+20]
+	RtlUserThreadStart [0x00007FF90A4026B1+33]
+
+2024-06-07 11:30:42 AM | DEBUG | Exception in track_message_recive: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61F1F78A2+54818]
+	(No symbol) [0x00007FF61F166AD2]
+	(No symbol) [0x00007FF61F01DA3B]
+	(No symbol) [0x00007FF61F02246D]
+	(No symbol) [0x00007FF61F023F5F]
+	(No symbol) [0x00007FF61F024050]
+	(No symbol) [0x00007FF61F05E184]
+	(No symbol) [0x00007FF61F05E67C]
+	(No symbol) [0x00007FF61F05544C]
+	(No symbol) [0x00007FF61F07EAEF]
+	(No symbol) [0x00007FF61F055036]
+	(No symbol) [0x00007FF61F07ECC0]
+	(No symbol) [0x00007FF61F0975A2]
+	(No symbol) [0x00007FF61F07E883]
+	(No symbol) [0x00007FF61F053691]
+	(No symbol) [0x00007FF61F0548D4]
+	GetHandleVerifier [0x00007FF61F55B9A2+3610402]
+	GetHandleVerifier [0x00007FF61F5B1870+3962352]
+	GetHandleVerifier [0x00007FF61F5A9D5F+3930847]
+	GetHandleVerifier [0x00007FF61F293656+693206]
+	(No symbol) [0x00007FF61F171638]
+	(No symbol) [0x00007FF61F16D944]
+	(No symbol) [0x00007FF61F16DA72]
+	(No symbol) [0x00007FF61F15E123]
+	BaseThreadInitThunk [0x00007FF9095E7344+20]
+	RtlUserThreadStart [0x00007FF90A4026B1+33]
+
+2024-06-07 11:30:44 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:46 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:48 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:50 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:53 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:55 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:57 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:30:59 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:01 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:03 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:05 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:07 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:09 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:11 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:14 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:16 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:18 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:20 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:22 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:24 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:26 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:28 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:30 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:33 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:35 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:37 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:39 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:41 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:43 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:45 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:47 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:49 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:51 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:54 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:56 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:31:58 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:32:00 AM | DEBUG | Exception in track_message_recive: 'FacebookAutomation' object has no attribute 'message_recive'
+2024-06-07 11:35:29 AM | ERROR | Exception in start_session: Element not found
+2024-06-07 11:53:28 AM | DEBUG | Exception in track_message_recive: Message: stale element reference: stale element not found
+  (Session info: headless chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61F1F78A2+54818]
+	(No symbol) [0x00007FF61F166AD2]
+	(No symbol) [0x00007FF61F01DA3B]
+	(No symbol) [0x00007FF61F02246D]
+	(No symbol) [0x00007FF61F023F5F]
+	(No symbol) [0x00007FF61F024050]
+	(No symbol) [0x00007FF61F05E184]
+	(No symbol) [0x00007FF61F05E67C]
+	(No symbol) [0x00007FF61F05544C]
+	(No symbol) [0x00007FF61F07EAEF]
+	(No symbol) [0x00007FF61F055036]
+	(No symbol) [0x00007FF61F07ECC0]
+	(No symbol) [0x00007FF61F0975A2]
+	(No symbol) [0x00007FF61F07E883]
+	(No symbol) [0x00007FF61F053691]
+	(No symbol) [0x00007FF61F0548D4]
+	GetHandleVerifier [0x00007FF61F55B9A2+3610402]
+	GetHandleVerifier [0x00007FF61F5B1870+3962352]
+	GetHandleVerifier [0x00007FF61F5A9D5F+3930847]
+	GetHandleVerifier [0x00007FF61F293656+693206]
+	(No symbol) [0x00007FF61F171638]
+	(No symbol) [0x00007FF61F16D944]
+	(No symbol) [0x00007FF61F16DA72]
+	(No symbol) [0x00007FF61F15E123]
+	BaseThreadInitThunk [0x00007FF9095E7344+20]
+	RtlUserThreadStart [0x00007FF90A4026B1+33]
+
+2024-06-07 11:53:29 AM | DEBUG | Exception in track_message_recive: Message: stale element reference: stale element not found
+  (Session info: headless chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61F1F78A2+54818]
+	(No symbol) [0x00007FF61F166AD2]
+	(No symbol) [0x00007FF61F01DA3B]
+	(No symbol) [0x00007FF61F02246D]
+	(No symbol) [0x00007FF61F023F5F]
+	(No symbol) [0x00007FF61F024050]
+	(No symbol) [0x00007FF61F05E184]
+	(No symbol) [0x00007FF61F05E67C]
+	(No symbol) [0x00007FF61F05544C]
+	(No symbol) [0x00007FF61F07EAEF]
+	(No symbol) [0x00007FF61F055036]
+	(No symbol) [0x00007FF61F07ECC0]
+	(No symbol) [0x00007FF61F0975A2]
+	(No symbol) [0x00007FF61F07E883]
+	(No symbol) [0x00007FF61F053691]
+	(No symbol) [0x00007FF61F0548D4]
+	GetHandleVerifier [0x00007FF61F55B9A2+3610402]
+	GetHandleVerifier [0x00007FF61F5B1870+3962352]
+	GetHandleVerifier [0x00007FF61F5A9D5F+3930847]
+	GetHandleVerifier [0x00007FF61F293656+693206]
+	(No symbol) [0x00007FF61F171638]
+	(No symbol) [0x00007FF61F16D944]
+	(No symbol) [0x00007FF61F16DA72]
+	(No symbol) [0x00007FF61F15E123]
+	BaseThreadInitThunk [0x00007FF9095E7344+20]
+	RtlUserThreadStart [0x00007FF90A4026B1+33]
+
+2024-06-07 11:53:29 AM | DEBUG | Exception in track_message_recive: Message: stale element reference: stale element not found
+  (Session info: headless chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61F1F78A2+54818]
+	(No symbol) [0x00007FF61F166AD2]
+	(No symbol) [0x00007FF61F01DA3B]
+	(No symbol) [0x00007FF61F02246D]
+	(No symbol) [0x00007FF61F023F5F]
+	(No symbol) [0x00007FF61F024050]
+	(No symbol) [0x00007FF61F05E184]
+	(No symbol) [0x00007FF61F05E67C]
+	(No symbol) [0x00007FF61F05544C]
+	(No symbol) [0x00007FF61F07EAEF]
+	(No symbol) [0x00007FF61F055036]
+	(No symbol) [0x00007FF61F07ECC0]
+	(No symbol) [0x00007FF61F0975A2]
+	(No symbol) [0x00007FF61F07E883]
+	(No symbol) [0x00007FF61F053691]
+	(No symbol) [0x00007FF61F0548D4]
+	GetHandleVerifier [0x00007FF61F55B9A2+3610402]
+	GetHandleVerifier [0x00007FF61F5B1870+3962352]
+	GetHandleVerifier [0x00007FF61F5A9D5F+3930847]
+	GetHandleVerifier [0x00007FF61F293656+693206]
+	(No symbol) [0x00007FF61F171638]
+	(No symbol) [0x00007FF61F16D944]
+	(No symbol) [0x00007FF61F16DA72]
+	(No symbol) [0x00007FF61F15E123]
+	BaseThreadInitThunk [0x00007FF9095E7344+20]
+	RtlUserThreadStart [0x00007FF90A4026B1+33]
+
+2024-06-07 12:01:11 PM | ERROR | Exception in start_session: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61F1F78A2+54818]
+	(No symbol) [0x00007FF61F166AD2]
+	(No symbol) [0x00007FF61F01DA3B]
+	(No symbol) [0x00007FF61F019853]
+	(No symbol) [0x00007FF61F00CB9C]
+	(No symbol) [0x00007FF61F00DDF7]
+	(No symbol) [0x00007FF61F00CF95]
+	(No symbol) [0x00007FF61F00C00E]
+	(No symbol) [0x00007FF61F00BFB3]
+	(No symbol) [0x00007FF61F00A82E]
+	(No symbol) [0x00007FF61F00B123]
+	(No symbol) [0x00007FF61F01FE4F]
+	(No symbol) [0x00007FF61F097917]
+	(No symbol) [0x00007FF61F07EAAA]
+	(No symbol) [0x00007FF61F0975A2]
+	(No symbol) [0x00007FF61F07E883]
+	(No symbol) [0x00007FF61F053691]
+	(No symbol) [0x00007FF61F0548D4]
+	GetHandleVerifier [0x00007FF61F55B9A2+3610402]
+	GetHandleVerifier [0x00007FF61F5B1870+3962352]
+	GetHandleVerifier [0x00007FF61F5A9D5F+3930847]
+	GetHandleVerifier [0x00007FF61F293656+693206]
+	(No symbol) [0x00007FF61F171638]
+	(No symbol) [0x00007FF61F16D944]
+	(No symbol) [0x00007FF61F16DA72]
+	(No symbol) [0x00007FF61F15E123]
+	BaseThreadInitThunk [0x00007FF9095E7344+20]
+	RtlUserThreadStart [0x00007FF90A4026B1+33]
+
+2024-06-07 12:01:12 PM | ERROR | Exception in start_session: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61F1F78A2+54818]
+	(No symbol) [0x00007FF61F166AD2]
+	(No symbol) [0x00007FF61F01DA3B]
+	(No symbol) [0x00007FF61F019853]
+	(No symbol) [0x00007FF61F00CB9C]
+	(No symbol) [0x00007FF61F00DDF7]
+	(No symbol) [0x00007FF61F00CF95]
+	(No symbol) [0x00007FF61F00C00E]
+	(No symbol) [0x00007FF61F00BFB3]
+	(No symbol) [0x00007FF61F00A82E]
+	(No symbol) [0x00007FF61F00B123]
+	(No symbol) [0x00007FF61F01FE4F]
+	(No symbol) [0x00007FF61F097917]
+	(No symbol) [0x00007FF61F07EAAA]
+	(No symbol) [0x00007FF61F0975A2]
+	(No symbol) [0x00007FF61F07E883]
+	(No symbol) [0x00007FF61F053691]
+	(No symbol) [0x00007FF61F0548D4]
+	GetHandleVerifier [0x00007FF61F55B9A2+3610402]
+	GetHandleVerifier [0x00007FF61F5B1870+3962352]
+	GetHandleVerifier [0x00007FF61F5A9D5F+3930847]
+	GetHandleVerifier [0x00007FF61F293656+693206]
+	(No symbol) [0x00007FF61F171638]
+	(No symbol) [0x00007FF61F16D944]
+	(No symbol) [0x00007FF61F16DA72]
+	(No symbol) [0x00007FF61F15E123]
+	BaseThreadInitThunk [0x00007FF9095E7344+20]
+	RtlUserThreadStart [0x00007FF90A4026B1+33]
+
+2024-06-07 12:02:44 PM | ERROR | Exception in screenshot: HTTPConnectionPool(host='localhost', port=58528): Max retries exceeded with url: /session/52ea1e7d3c6e0b7fe8b1f62e1392da08/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029377A532B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-06-07 12:04:03 PM | ERROR | Exception in screenshot: HTTPConnectionPool(host='localhost', port=58528): Max retries exceeded with url: /session/52ea1e7d3c6e0b7fe8b1f62e1392da08/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029377A539D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-06-25 11:45:34 AM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF64AA278A2+54818]
+	(No symbol) [0x00007FF64A996AD2]
+	(No symbol) [0x00007FF64A84DA3B]
+	(No symbol) [0x00007FF64A85246D]
+	(No symbol) [0x00007FF64A853F5F]
+	(No symbol) [0x00007FF64A854050]
+	(No symbol) [0x00007FF64A88E184]
+	(No symbol) [0x00007FF64A88E67C]
+	(No symbol) [0x00007FF64A88544C]
+	(No symbol) [0x00007FF64A8AEAEF]
+	(No symbol) [0x00007FF64A885036]
+	(No symbol) [0x00007FF64A8AECC0]
+	(No symbol) [0x00007FF64A8C75A2]
+	(No symbol) [0x00007FF64A8AE883]
+	(No symbol) [0x00007FF64A883691]
+	(No symbol) [0x00007FF64A8848D4]
+	GetHandleVerifier [0x00007FF64AD8B9A2+3610402]
+	GetHandleVerifier [0x00007FF64ADE1870+3962352]
+	GetHandleVerifier [0x00007FF64ADD9D5F+3930847]
+	GetHandleVerifier [0x00007FF64AAC3656+693206]
+	(No symbol) [0x00007FF64A9A1638]
+	(No symbol) [0x00007FF64A99D944]
+	(No symbol) [0x00007FF64A99DA72]
+	(No symbol) [0x00007FF64A98E123]
+	BaseThreadInitThunk [0x00007FF9E8827344+20]
+	RtlUserThreadStart [0x00007FF9E91DCC91+33]
+
+2024-06-25 11:45:34 AM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF64AA278A2+54818]
+	(No symbol) [0x00007FF64A996AD2]
+	(No symbol) [0x00007FF64A84DA3B]
+	(No symbol) [0x00007FF64A85246D]
+	(No symbol) [0x00007FF64A853F5F]
+	(No symbol) [0x00007FF64A854050]
+	(No symbol) [0x00007FF64A88E184]
+	(No symbol) [0x00007FF64A88E67C]
+	(No symbol) [0x00007FF64A88544C]
+	(No symbol) [0x00007FF64A8AEAEF]
+	(No symbol) [0x00007FF64A885036]
+	(No symbol) [0x00007FF64A8AECC0]
+	(No symbol) [0x00007FF64A8C75A2]
+	(No symbol) [0x00007FF64A8AE883]
+	(No symbol) [0x00007FF64A883691]
+	(No symbol) [0x00007FF64A8848D4]
+	GetHandleVerifier [0x00007FF64AD8B9A2+3610402]
+	GetHandleVerifier [0x00007FF64ADE1870+3962352]
+	GetHandleVerifier [0x00007FF64ADD9D5F+3930847]
+	GetHandleVerifier [0x00007FF64AAC3656+693206]
+	(No symbol) [0x00007FF64A9A1638]
+	(No symbol) [0x00007FF64A99D944]
+	(No symbol) [0x00007FF64A99DA72]
+	(No symbol) [0x00007FF64A98E123]
+	BaseThreadInitThunk [0x00007FF9E8827344+20]
+	RtlUserThreadStart [0x00007FF9E91DCC91+33]
+
+2024-06-25 11:45:34 AM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF64AA278A2+54818]
+	(No symbol) [0x00007FF64A996AD2]
+	(No symbol) [0x00007FF64A84DA3B]
+	(No symbol) [0x00007FF64A85246D]
+	(No symbol) [0x00007FF64A853F5F]
+	(No symbol) [0x00007FF64A854050]
+	(No symbol) [0x00007FF64A88E184]
+	(No symbol) [0x00007FF64A88E67C]
+	(No symbol) [0x00007FF64A88544C]
+	(No symbol) [0x00007FF64A8AEAEF]
+	(No symbol) [0x00007FF64A885036]
+	(No symbol) [0x00007FF64A8AECC0]
+	(No symbol) [0x00007FF64A8C75A2]
+	(No symbol) [0x00007FF64A8AE883]
+	(No symbol) [0x00007FF64A883691]
+	(No symbol) [0x00007FF64A8848D4]
+	GetHandleVerifier [0x00007FF64AD8B9A2+3610402]
+	GetHandleVerifier [0x00007FF64ADE1870+3962352]
+	GetHandleVerifier [0x00007FF64ADD9D5F+3930847]
+	GetHandleVerifier [0x00007FF64AAC3656+693206]
+	(No symbol) [0x00007FF64A9A1638]
+	(No symbol) [0x00007FF64A99D944]
+	(No symbol) [0x00007FF64A99DA72]
+	(No symbol) [0x00007FF64A98E123]
+	BaseThreadInitThunk [0x00007FF9E8827344+20]
+	RtlUserThreadStart [0x00007FF9E91DCC91+33]
+
+2024-06-25 11:46:12 AM | ERROR | Exception in start_session: Element not found
+2024-06-25 14:43:17 PM | ERROR | Exception in start_session: Element not found
+2024-06-25 14:46:35 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7492478A2+54818]
+	(No symbol) [0x00007FF7491B6AD2]
+	(No symbol) [0x00007FF74906DA3B]
+	(No symbol) [0x00007FF74907246D]
+	(No symbol) [0x00007FF749073F5F]
+	(No symbol) [0x00007FF749074050]
+	(No symbol) [0x00007FF7490AE184]
+	(No symbol) [0x00007FF7490AE67C]
+	(No symbol) [0x00007FF7490A544C]
+	(No symbol) [0x00007FF7490CEAEF]
+	(No symbol) [0x00007FF7490A5036]
+	(No symbol) [0x00007FF7490CECC0]
+	(No symbol) [0x00007FF7490E75A2]
+	(No symbol) [0x00007FF7490CE883]
+	(No symbol) [0x00007FF7490A3691]
+	(No symbol) [0x00007FF7490A48D4]
+	GetHandleVerifier [0x00007FF7495AB9A2+3610402]
+	GetHandleVerifier [0x00007FF749601870+3962352]
+	GetHandleVerifier [0x00007FF7495F9D5F+3930847]
+	GetHandleVerifier [0x00007FF7492E3656+693206]
+	(No symbol) [0x00007FF7491C1638]
+	(No symbol) [0x00007FF7491BD944]
+	(No symbol) [0x00007FF7491BDA72]
+	(No symbol) [0x00007FF7491AE123]
+	BaseThreadInitThunk [0x00007FF9E8827344+20]
+	RtlUserThreadStart [0x00007FF9E91DCC91+33]
+
+2024-06-25 16:16:10 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7492478A2+54818]
+	(No symbol) [0x00007FF7491B6AD2]
+	(No symbol) [0x00007FF74906DA3B]
+	(No symbol) [0x00007FF74907246D]
+	(No symbol) [0x00007FF749073F5F]
+	(No symbol) [0x00007FF749074050]
+	(No symbol) [0x00007FF7490AE184]
+	(No symbol) [0x00007FF7490AE67C]
+	(No symbol) [0x00007FF7490A544C]
+	(No symbol) [0x00007FF7490CEAEF]
+	(No symbol) [0x00007FF7490A5036]
+	(No symbol) [0x00007FF7490CECC0]
+	(No symbol) [0x00007FF7490E75A2]
+	(No symbol) [0x00007FF7490CE883]
+	(No symbol) [0x00007FF7490A3691]
+	(No symbol) [0x00007FF7490A48D4]
+	GetHandleVerifier [0x00007FF7495AB9A2+3610402]
+	GetHandleVerifier [0x00007FF749601870+3962352]
+	GetHandleVerifier [0x00007FF7495F9D5F+3930847]
+	GetHandleVerifier [0x00007FF7492E3656+693206]
+	(No symbol) [0x00007FF7491C1638]
+	(No symbol) [0x00007FF7491BD944]
+	(No symbol) [0x00007FF7491BDA72]
+	(No symbol) [0x00007FF7491AE123]
+	BaseThreadInitThunk [0x00007FF9E8827344+20]
+	RtlUserThreadStart [0x00007FF9E91DCC91+33]
+
+2024-06-25 16:16:10 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7492478A2+54818]
+	(No symbol) [0x00007FF7491B6AD2]
+	(No symbol) [0x00007FF74906DA3B]
+	(No symbol) [0x00007FF74907246D]
+	(No symbol) [0x00007FF749073F5F]
+	(No symbol) [0x00007FF749074050]
+	(No symbol) [0x00007FF7490AE184]
+	(No symbol) [0x00007FF7490AE67C]
+	(No symbol) [0x00007FF7490A544C]
+	(No symbol) [0x00007FF7490CEAEF]
+	(No symbol) [0x00007FF7490A5036]
+	(No symbol) [0x00007FF7490CECC0]
+	(No symbol) [0x00007FF7490E75A2]
+	(No symbol) [0x00007FF7490CE883]
+	(No symbol) [0x00007FF7490A3691]
+	(No symbol) [0x00007FF7490A48D4]
+	GetHandleVerifier [0x00007FF7495AB9A2+3610402]
+	GetHandleVerifier [0x00007FF749601870+3962352]
+	GetHandleVerifier [0x00007FF7495F9D5F+3930847]
+	GetHandleVerifier [0x00007FF7492E3656+693206]
+	(No symbol) [0x00007FF7491C1638]
+	(No symbol) [0x00007FF7491BD944]
+	(No symbol) [0x00007FF7491BDA72]
+	(No symbol) [0x00007FF7491AE123]
+	BaseThreadInitThunk [0x00007FF9E8827344+20]
+	RtlUserThreadStart [0x00007FF9E91DCC91+33]
+
+2024-06-25 16:16:24 PM | DEBUG | Exception in delete_session: .sessions/default - The system cannot find the path specified
+2024-06-25 16:19:53 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7492478A2+54818]
+	(No symbol) [0x00007FF7491B6AD2]
+	(No symbol) [0x00007FF74906DA3B]
+	(No symbol) [0x00007FF74907246D]
+	(No symbol) [0x00007FF749073F5F]
+	(No symbol) [0x00007FF749074050]
+	(No symbol) [0x00007FF7490AE184]
+	(No symbol) [0x00007FF7490AE67C]
+	(No symbol) [0x00007FF7490A544C]
+	(No symbol) [0x00007FF7490CEAEF]
+	(No symbol) [0x00007FF7490A5036]
+	(No symbol) [0x00007FF7490CECC0]
+	(No symbol) [0x00007FF7490E75A2]
+	(No symbol) [0x00007FF7490CE883]
+	(No symbol) [0x00007FF7490A3691]
+	(No symbol) [0x00007FF7490A48D4]
+	GetHandleVerifier [0x00007FF7495AB9A2+3610402]
+	GetHandleVerifier [0x00007FF749601870+3962352]
+	GetHandleVerifier [0x00007FF7495F9D5F+3930847]
+	GetHandleVerifier [0x00007FF7492E3656+693206]
+	(No symbol) [0x00007FF7491C1638]
+	(No symbol) [0x00007FF7491BD944]
+	(No symbol) [0x00007FF7491BDA72]
+	(No symbol) [0x00007FF7491AE123]
+	BaseThreadInitThunk [0x00007FF9E8827344+20]
+	RtlUserThreadStart [0x00007FF9E91DCC91+33]
+
+2024-06-26 16:00:15 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:00:15 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:00:15 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:00:58 PM | ERROR | Exception in start_session: Element not found
+2024-06-26 16:28:58 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:28:58 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:28:58 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:41:07 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:41:07 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:42:32 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:42:33 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-26 16:42:33 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7736278A2+54818]
+	(No symbol) [0x00007FF773596AD2]
+	(No symbol) [0x00007FF77344DA3B]
+	(No symbol) [0x00007FF77345246D]
+	(No symbol) [0x00007FF773453F5F]
+	(No symbol) [0x00007FF773454050]
+	(No symbol) [0x00007FF77348E184]
+	(No symbol) [0x00007FF77348E67C]
+	(No symbol) [0x00007FF77348544C]
+	(No symbol) [0x00007FF7734AEAEF]
+	(No symbol) [0x00007FF773485036]
+	(No symbol) [0x00007FF7734AECC0]
+	(No symbol) [0x00007FF7734C75A2]
+	(No symbol) [0x00007FF7734AE883]
+	(No symbol) [0x00007FF773483691]
+	(No symbol) [0x00007FF7734848D4]
+	GetHandleVerifier [0x00007FF77398B9A2+3610402]
+	GetHandleVerifier [0x00007FF7739E1870+3962352]
+	GetHandleVerifier [0x00007FF7739D9D5F+3930847]
+	GetHandleVerifier [0x00007FF7736C3656+693206]
+	(No symbol) [0x00007FF7735A1638]
+	(No symbol) [0x00007FF77359D944]
+	(No symbol) [0x00007FF77359DA72]
+	(No symbol) [0x00007FF77358E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-27 14:49:19 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7963C78A2+54818]
+	(No symbol) [0x00007FF796336AD2]
+	(No symbol) [0x00007FF7961EDA3B]
+	(No symbol) [0x00007FF7961F246D]
+	(No symbol) [0x00007FF7961F3F5F]
+	(No symbol) [0x00007FF7961F4050]
+	(No symbol) [0x00007FF79622E184]
+	(No symbol) [0x00007FF79622E67C]
+	(No symbol) [0x00007FF79622544C]
+	(No symbol) [0x00007FF79624EAEF]
+	(No symbol) [0x00007FF796225036]
+	(No symbol) [0x00007FF79624ECC0]
+	(No symbol) [0x00007FF7962675A2]
+	(No symbol) [0x00007FF79624E883]
+	(No symbol) [0x00007FF796223691]
+	(No symbol) [0x00007FF7962248D4]
+	GetHandleVerifier [0x00007FF79672B9A2+3610402]
+	GetHandleVerifier [0x00007FF796781870+3962352]
+	GetHandleVerifier [0x00007FF796779D5F+3930847]
+	GetHandleVerifier [0x00007FF796463656+693206]
+	(No symbol) [0x00007FF796341638]
+	(No symbol) [0x00007FF79633D944]
+	(No symbol) [0x00007FF79633DA72]
+	(No symbol) [0x00007FF79632E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-27 14:49:19 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7963C78A2+54818]
+	(No symbol) [0x00007FF796336AD2]
+	(No symbol) [0x00007FF7961EDA3B]
+	(No symbol) [0x00007FF7961F246D]
+	(No symbol) [0x00007FF7961F3F5F]
+	(No symbol) [0x00007FF7961F4050]
+	(No symbol) [0x00007FF79622E184]
+	(No symbol) [0x00007FF79622E67C]
+	(No symbol) [0x00007FF79622544C]
+	(No symbol) [0x00007FF79624EAEF]
+	(No symbol) [0x00007FF796225036]
+	(No symbol) [0x00007FF79624ECC0]
+	(No symbol) [0x00007FF7962675A2]
+	(No symbol) [0x00007FF79624E883]
+	(No symbol) [0x00007FF796223691]
+	(No symbol) [0x00007FF7962248D4]
+	GetHandleVerifier [0x00007FF79672B9A2+3610402]
+	GetHandleVerifier [0x00007FF796781870+3962352]
+	GetHandleVerifier [0x00007FF796779D5F+3930847]
+	GetHandleVerifier [0x00007FF796463656+693206]
+	(No symbol) [0x00007FF796341638]
+	(No symbol) [0x00007FF79633D944]
+	(No symbol) [0x00007FF79633DA72]
+	(No symbol) [0x00007FF79632E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-27 14:49:19 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7963C78A2+54818]
+	(No symbol) [0x00007FF796336AD2]
+	(No symbol) [0x00007FF7961EDA3B]
+	(No symbol) [0x00007FF7961F246D]
+	(No symbol) [0x00007FF7961F3F5F]
+	(No symbol) [0x00007FF7961F4050]
+	(No symbol) [0x00007FF79622E184]
+	(No symbol) [0x00007FF79622E67C]
+	(No symbol) [0x00007FF79622544C]
+	(No symbol) [0x00007FF79624EAEF]
+	(No symbol) [0x00007FF796225036]
+	(No symbol) [0x00007FF79624ECC0]
+	(No symbol) [0x00007FF7962675A2]
+	(No symbol) [0x00007FF79624E883]
+	(No symbol) [0x00007FF796223691]
+	(No symbol) [0x00007FF7962248D4]
+	GetHandleVerifier [0x00007FF79672B9A2+3610402]
+	GetHandleVerifier [0x00007FF796781870+3962352]
+	GetHandleVerifier [0x00007FF796779D5F+3930847]
+	GetHandleVerifier [0x00007FF796463656+693206]
+	(No symbol) [0x00007FF796341638]
+	(No symbol) [0x00007FF79633D944]
+	(No symbol) [0x00007FF79633DA72]
+	(No symbol) [0x00007FF79632E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-27 14:52:46 PM | DEBUG | Exception in delete_session: .sessions/default - The system cannot find the path specified
+2024-06-28 11:26:27 AM | ERROR | Exception in restore_a_session: Message: Unable to locate or obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-06-28 12:45:52 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6341C78A2+54818]
+	(No symbol) [0x00007FF634136AD2]
+	(No symbol) [0x00007FF633FEDA3B]
+	(No symbol) [0x00007FF633FF246D]
+	(No symbol) [0x00007FF633FF3F5F]
+	(No symbol) [0x00007FF633FF4050]
+	(No symbol) [0x00007FF63402E184]
+	(No symbol) [0x00007FF63402E67C]
+	(No symbol) [0x00007FF63402544C]
+	(No symbol) [0x00007FF63404EAEF]
+	(No symbol) [0x00007FF634025036]
+	(No symbol) [0x00007FF63404ECC0]
+	(No symbol) [0x00007FF6340675A2]
+	(No symbol) [0x00007FF63404E883]
+	(No symbol) [0x00007FF634023691]
+	(No symbol) [0x00007FF6340248D4]
+	GetHandleVerifier [0x00007FF63452B9A2+3610402]
+	GetHandleVerifier [0x00007FF634581870+3962352]
+	GetHandleVerifier [0x00007FF634579D5F+3930847]
+	GetHandleVerifier [0x00007FF634263656+693206]
+	(No symbol) [0x00007FF634141638]
+	(No symbol) [0x00007FF63413D944]
+	(No symbol) [0x00007FF63413DA72]
+	(No symbol) [0x00007FF63412E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-28 12:45:52 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6341C78A2+54818]
+	(No symbol) [0x00007FF634136AD2]
+	(No symbol) [0x00007FF633FEDA3B]
+	(No symbol) [0x00007FF633FF246D]
+	(No symbol) [0x00007FF633FF3F5F]
+	(No symbol) [0x00007FF633FF4050]
+	(No symbol) [0x00007FF63402E184]
+	(No symbol) [0x00007FF63402E67C]
+	(No symbol) [0x00007FF63402544C]
+	(No symbol) [0x00007FF63404EAEF]
+	(No symbol) [0x00007FF634025036]
+	(No symbol) [0x00007FF63404ECC0]
+	(No symbol) [0x00007FF6340675A2]
+	(No symbol) [0x00007FF63404E883]
+	(No symbol) [0x00007FF634023691]
+	(No symbol) [0x00007FF6340248D4]
+	GetHandleVerifier [0x00007FF63452B9A2+3610402]
+	GetHandleVerifier [0x00007FF634581870+3962352]
+	GetHandleVerifier [0x00007FF634579D5F+3930847]
+	GetHandleVerifier [0x00007FF634263656+693206]
+	(No symbol) [0x00007FF634141638]
+	(No symbol) [0x00007FF63413D944]
+	(No symbol) [0x00007FF63413DA72]
+	(No symbol) [0x00007FF63412E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-28 12:53:54 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6341C78A2+54818]
+	(No symbol) [0x00007FF634136AD2]
+	(No symbol) [0x00007FF633FEDA3B]
+	(No symbol) [0x00007FF633FF246D]
+	(No symbol) [0x00007FF633FF3F5F]
+	(No symbol) [0x00007FF633FF4050]
+	(No symbol) [0x00007FF63402E184]
+	(No symbol) [0x00007FF63402E67C]
+	(No symbol) [0x00007FF63402544C]
+	(No symbol) [0x00007FF63404EAEF]
+	(No symbol) [0x00007FF634025036]
+	(No symbol) [0x00007FF63404ECC0]
+	(No symbol) [0x00007FF6340675A2]
+	(No symbol) [0x00007FF63404E883]
+	(No symbol) [0x00007FF634023691]
+	(No symbol) [0x00007FF6340248D4]
+	GetHandleVerifier [0x00007FF63452B9A2+3610402]
+	GetHandleVerifier [0x00007FF634581870+3962352]
+	GetHandleVerifier [0x00007FF634579D5F+3930847]
+	GetHandleVerifier [0x00007FF634263656+693206]
+	(No symbol) [0x00007FF634141638]
+	(No symbol) [0x00007FF63413D944]
+	(No symbol) [0x00007FF63413DA72]
+	(No symbol) [0x00007FF63412E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-28 12:53:54 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6341C78A2+54818]
+	(No symbol) [0x00007FF634136AD2]
+	(No symbol) [0x00007FF633FEDA3B]
+	(No symbol) [0x00007FF633FF246D]
+	(No symbol) [0x00007FF633FF3F5F]
+	(No symbol) [0x00007FF633FF4050]
+	(No symbol) [0x00007FF63402E184]
+	(No symbol) [0x00007FF63402E67C]
+	(No symbol) [0x00007FF63402544C]
+	(No symbol) [0x00007FF63404EAEF]
+	(No symbol) [0x00007FF634025036]
+	(No symbol) [0x00007FF63404ECC0]
+	(No symbol) [0x00007FF6340675A2]
+	(No symbol) [0x00007FF63404E883]
+	(No symbol) [0x00007FF634023691]
+	(No symbol) [0x00007FF6340248D4]
+	GetHandleVerifier [0x00007FF63452B9A2+3610402]
+	GetHandleVerifier [0x00007FF634581870+3962352]
+	GetHandleVerifier [0x00007FF634579D5F+3930847]
+	GetHandleVerifier [0x00007FF634263656+693206]
+	(No symbol) [0x00007FF634141638]
+	(No symbol) [0x00007FF63413D944]
+	(No symbol) [0x00007FF63413DA72]
+	(No symbol) [0x00007FF63412E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-06-28 12:53:54 PM | DEBUG | Exception in start_automation: Message: stale element reference: stale element not found
+  (Session info: chrome=117.0.5938.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6341C78A2+54818]
+	(No symbol) [0x00007FF634136AD2]
+	(No symbol) [0x00007FF633FEDA3B]
+	(No symbol) [0x00007FF633FF246D]
+	(No symbol) [0x00007FF633FF3F5F]
+	(No symbol) [0x00007FF633FF4050]
+	(No symbol) [0x00007FF63402E184]
+	(No symbol) [0x00007FF63402E67C]
+	(No symbol) [0x00007FF63402544C]
+	(No symbol) [0x00007FF63404EAEF]
+	(No symbol) [0x00007FF634025036]
+	(No symbol) [0x00007FF63404ECC0]
+	(No symbol) [0x00007FF6340675A2]
+	(No symbol) [0x00007FF63404E883]
+	(No symbol) [0x00007FF634023691]
+	(No symbol) [0x00007FF6340248D4]
+	GetHandleVerifier [0x00007FF63452B9A2+3610402]
+	GetHandleVerifier [0x00007FF634581870+3962352]
+	GetHandleVerifier [0x00007FF634579D5F+3930847]
+	GetHandleVerifier [0x00007FF634263656+693206]
+	(No symbol) [0x00007FF634141638]
+	(No symbol) [0x00007FF63413D944]
+	(No symbol) [0x00007FF63413DA72]
+	(No symbol) [0x00007FF63412E123]
+	BaseThreadInitThunk [0x00007FFEF42E7344+20]
+	RtlUserThreadStart [0x00007FFEF4A3CC91+33]
+
+2024-07-05 11:21:44 AM | ERROR | Exception in start_session: 'InstagramAutomation' object has no attribute 'get_messenger'
+2024-07-05 11:27:38 AM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/faceAi/receive (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E321FE0700>: Failed to resolve 'ihsancrm.com' ([Errno 11001] getaddrinfo failed)"))
+2024-07-05 11:28:20 AM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E321FE1060>, 'Connection to bot.ihsancrm.com timed out. (connect timeout=None)'))
+2024-07-05 11:31:24 AM | ERROR | Exception in start_session: try_and_wait() got an unexpected keyword argument 'function'
+2024-10-07 12:26:15 PM | ERROR | Exception in restore_a_session: Message: Unable to locate or obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-10-07 12:26:15 PM | ERROR | Exception in restore_a_session: Message: Unable to locate or obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-10-08 11:20:00 AM | ERROR | Exception in start_session: try_and_wait() missing 2 required positional arguments: 'timeout' and 'retries'
+2024-10-08 14:58:21 PM | ERROR | Exception in start_session: 'NoneType' object has no attribute 'text'
+2024-10-08 14:59:08 PM | ERROR | Exception in start_session: 'NoneType' object has no attribute 'text'
+2024-10-09 17:11:13 PM | ERROR | Exception in restore_a_session: Message: Unable to locate or obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2024-10-09 17:14:01 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002115B9D9AE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:14:05 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002115B9D8FD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:14:47 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002115B9D9990>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2024-10-09 17:14:58 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002115B9D8FA0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2024-10-09 17:25:07 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000132A1C09B40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:25:07 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000132A1C09030>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:26:26 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000132A1C09BD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:26:27 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000132A1C09C30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:23 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989B40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:23 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989060>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:24 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989BD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:31 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989B70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:31 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989A80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:31 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989DE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:36 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989B70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:37 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989990>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:37 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989DB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:42 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989B70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:43 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989C00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:43 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989180>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:45 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989B70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:45 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989D80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:45 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088988F70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:52 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088988F10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:53 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088988E80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:53 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088988AF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:58 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989A80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:59 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989B40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:31:59 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989E40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:32:04 PM | ERROR | Exception in track_message_recive: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/receive (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989A80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:32:04 PM | ERROR | Exception in ihsan_ai_bot: HTTPSConnectionPool(host='bot.ihsancrm.com', port=443): Max retries exceeded with url: /ihsanai/ask/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088988E80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+2024-10-09 17:32:05 PM | ERROR | Exception in track_message_sent: HTTPSConnectionPool(host='ihsancrm.com', port=443): Max retries exceeded with url: /api/ihsanai/instaAi/sent (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016088989A50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
